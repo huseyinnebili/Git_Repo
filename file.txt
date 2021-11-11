@@ -1,2 +1,7 @@
 This is my first file in Git_Repo.
 This repo was created in local machine.
+
+=======================
+
+This is my first update on my file in Git_Repo.
+This update was done on remote repo..
