@@ -5,3 +5,9 @@ This repo was created in local machine.
 
 This is my first update on my file in Git_Repo.
 This update was done on remote repo..
+
+
+=======================
+
+This is my second update on my file in Git_Repo.
+This update was done on local repo.
